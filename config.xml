@@ -1,0 +1,17 @@
+<?xml version ="1.0" encoding="UTF-8"?>
+<wiget xmlns ="http://www.w3.org/ns/widgets"
+xlms:gap ="http://phonegap.com/ns/1.0"
+id ="com.adebrah.pg1"
+versionCode="11"
+version="1.0.0">
+<!--versionCode is optional and Android only-->
+<name>Cacth TheBusz</name>
+<description>
+A bus application for Ashesi Bus
+</description>
+<author href="http://www.ashesi.edu.gh" email="abadee39@gmail.com">
+ A Debrah
+ </author>
+  <!-- We'll include the Barcode plugin as an example -->
+  <gap:plugin name="com.phonegap.plugins.barcodescanner" />
+ </widget>
